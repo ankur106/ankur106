@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mayur+Kishor+Kumar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ankur+Patel!;" />
 </h1>
  
 <div align="center"> 
@@ -19,11 +19,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i= Java, JavaScript, TypeScript, Python, HTML, CSS/SCSS, SQL " />
-    <img src="https://skillicons.dev/icons?i=Angular, RxJS, NGXS, React, Redux, Jest, Spring Boot, JPA/Hibernate, JUnit, OpenAPI/Swagger" />
-    <img src="https://skillicons.dev/icons?i=PostgreSQL, MySQL, Liquibase, MongoDB, Elasticsearch, Reddis, DynamoDB, QDrant, Kafka" />
-    <img src="https://skillicons.dev/icons?i=Docker, NGINX, AWS, CI/CD, AWS CDK, JIRA, Git Bash, Figma, Nx, Postman" />
-
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,html,css,scss,sql" />
+  <img src="https://skillicons.dev/icons?i=angular,rxjs,ngxs,react,redux,jest,spring,jpa,junit,swagger" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,liquibase,mongodb,elasticsearch,redis,dynamodb,qdrant,kafka" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,cdk,jira,git,figma,nx,postman" />
 </div>
 
 <br/>
